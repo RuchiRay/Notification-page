@@ -10,7 +10,7 @@ export const Notifications = () => {
       <SideMenu />
       <div className="w-full">
         <Navbar />
-        <div className="w-full mt-8 flex items-center flex-col">
+        <div className="w-full mt-6 flex items-center flex-col">
           <div>
             <h1 className="font-semibold text-xl">Your Notification</h1>
             <div className="w-[40rem] h-[1px] my-4 bg-gray-200/10"></div>
