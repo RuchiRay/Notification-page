@@ -7,8 +7,12 @@ module.exports = {
         blue: {
           primary: "#0648D7",
         },
+        gray: {
+          100: "#F8F8F9",
+          200: "#687684",
+        },
       },
     },
   },
-  plugins: [],
+  plugins: [require("@tailwindcss/forms")],
 };
