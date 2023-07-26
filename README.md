@@ -1,3 +1,6 @@
+# Demo
+<img width="1728" alt="Screenshot 2023-07-27 at 1 32 35 AM" src="https://github.com/RuchiRay/Notification-page/assets/68969089/612f7335-8d63-4b4e-926f-a4a99443034c">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
