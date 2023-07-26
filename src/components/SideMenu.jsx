@@ -33,7 +33,7 @@ export const SideMenu = () => {
         </div>
         <div className="w-full py-2 relative flex items-center justify-center">
           <BellSimple color="#687684" size={20} />
-          <div className="absolute rounded-full w-[9px] h-[9px] right-6 top-2 bg-orange-400"></div>
+          <div className="absolute rounded-full w-[9px] h-[9px] right-5 top-2 bg-orange-400"></div>
         </div>
       </div>
     </div>
