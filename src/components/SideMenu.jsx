@@ -11,7 +11,7 @@ import {
 
 export const SideMenu = () => {
   return (
-    <div className="border-r w-16 bg-white flex flex-col items-center border-r-gray-100 min-h-screen">
+    <div className="border-r w-16 bg-white flex flex-col items-center border-r-gray-200/10 min-h-screen">
       <div className="mt-4">
         <img src={logo} alt="" />
       </div>
